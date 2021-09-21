@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://riftnemesis.github.io/csb-npvy1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://riftnemesis.github.io/csb-npvy1/static/js/main.eefd64c8.chunk.js",
+    "main.js.map": "https://riftnemesis.github.io/csb-npvy1/static/js/main.eefd64c8.chunk.js.map",
+    "runtime-main.js": "https://riftnemesis.github.io/csb-npvy1/static/js/runtime-main.d7f99cdc.js",
+    "runtime-main.js.map": "https://riftnemesis.github.io/csb-npvy1/static/js/runtime-main.d7f99cdc.js.map",
+    "static/js/2.6487861b.chunk.js": "https://riftnemesis.github.io/csb-npvy1/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://riftnemesis.github.io/csb-npvy1/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://riftnemesis.github.io/csb-npvy1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://riftnemesis.github.io/csb-npvy1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://riftnemesis.github.io/csb-npvy1/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f99cdc.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.eefd64c8.chunk.js"
+  ]
+}
